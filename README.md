@@ -40,6 +40,30 @@
 * Retrofit2, Okhttp3
 * Firebase, Yandex Auth
 
+## Проекты
+### Тестовое приложение "Список дел"
+* Kotlin
+*  Dagger 2
+* Room
+* Navigation Component
+* Auth Yandex
+*  MVVM
+* https://github.com/Ev4esem/ListCase
+### Тестовое приложение c использованием многомодульной архитектуры
+* Kotlin + Coroutine
+* MVVM + Multimodule
+* Navigation Component
+* Dagger 2
+* Retrofit + Glide
+* Room + SharedPreferences
+* https://github.com/Ev4esem/Online-Store-App
+### Приложение "Список покупок"
+* Kotlin
+* MVVM
+* Room
+* Google Ads
+* https://github.com/Ev4esem/ShopList
+
 ## Образовании 
 Являюсь программистом с опыт разработки с 2022 года. Обучаюсь на 2 курсе ПОАНО Национальный инновационный колледж на факультете "Информационные системы и программирование"
 
