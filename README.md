@@ -1,7 +1,5 @@
 # About me
-<h2 align="center">Магомедов Рашид </h2>
-<h2 align="center">Android developer </h2>
-<h3 align="center">Мужчина, 17 лет, родился 24 июля 2006</h3>
+<h2>Магомедов Рашид </h2>
 
 
 Здравствуйте! Я Junior Android developer с опытом разработки больше 1 года. Мое техническое мастерство в  Kotlin, и Android SDK составляет основу моего опыта разработки. 
