@@ -1,17 +1,30 @@
 # About me
 <h2>Магомедов Рашид </h2>
 
+## Contact us:
+
+
+**+7(928)-583-53-96**
+<p align='center'>
+   📫 How to reach me: <a href='rashid.magomedov.05.dev@gmail.com'>rashid.magomedov.05.dev@gmail.com</a>
+</p>
+
 
 Здравствуйте! Я Junior Android developer с опытом разработки больше 1 года. Мое техническое мастерство в  Kotlin, и Android SDK составляет основу моего опыта разработки. 
 
 
-<p align='center'>
+<p >
    <a href="https://t.me/Custom_view">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='rashid.magomedov.05.dev@gmail.com'>rashid.magomedov.05.dev@gmail.com</a>
-</p>
+<p >
+   <a href="https://www.instagram.com/ev4esem?igsh=YWNyNm1raWZxMmlv&utm_source=qr">
+       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   </a>
+   <p >
+   <a href="https://vk.com/m.rashid_63">
+       <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+   </a>
 
 ## Other Skills
 Я знаком с принципами адаптивного дизайна и стремлюсь упростить разработку пользовательского интерфейса. Мое понимание **Gradle** позволяет эффективно управлять процессом сборки приложения. Я также хорошо разбираюсь в **XML** за разработку пользовательских интерфейсов, что повышает мою универсальность как разработчика для Android.
@@ -68,4 +81,7 @@
 ## Языки
 **Английский**: B1
 **Русский**: C1
+
+
+
 
