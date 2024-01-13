@@ -1,6 +1,6 @@
 ## Contact us:
 
-                                        +7(928)-583-53-96
+                  +7(928)-583-53-96
 <p align='center'>
    Email : <a href='rashid.magomedov.05.dev@gmail.com'>rashid.magomedov.05.dev@gmail.com</a>
 </p>
