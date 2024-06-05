@@ -57,13 +57,13 @@
 * Auth Yandex
 *  MVVM
 * https://github.com/Ev4esem/ListCase
-### Тестовое приложение c использованием многомодульной архитектуры
+### Приложение CareerBoost
+* Jetpack compose
 * Kotlin + Coroutine
-* MVVM + Multimodule
-* Navigation Component
-* Dagger 2
-* Retrofit + Glide
-* Room + SharedPreferences
+* MVVM + MVI
+* Jetpack Navigation
+* Hilt
+* Fireauth + Firestore
 * https://github.com/Ev4esem/Online-Store-App
 ### Приложение "Список покупок"
 * Kotlin
