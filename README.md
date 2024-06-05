@@ -64,7 +64,7 @@
 * Jetpack Navigation
 * Hilt
 * Fireauth + Firestore
-* https://github.com/Ev4esem/Online-Store-App
+* https://github.com/Ev4esem/CareerBoast
 ### Приложение "Список покупок"
 * Kotlin
 * MVVM
