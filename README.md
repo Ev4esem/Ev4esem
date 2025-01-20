@@ -1,5 +1,5 @@
-## About me: 
 Hello, My name Rashid. I'm Android Developer from Russia 
+
 ## Contact us:
 <p align='center'>
    Email : <a href='rashid.magomedov.05.dev@gmail.com'>rashid.magomedov.05.dev@gmail.com</a>
