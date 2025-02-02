@@ -1,4 +1,4 @@
-Hello, My name Rashid. I'm Android Developer from Russia 
+Hello, My name is Rashid. I'm Android Developer from Russia 
 
 ## Contact us:
 <p align='center'>
